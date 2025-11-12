@@ -2,7 +2,9 @@
 
 **Block Runner **
 
+
 <img width="636" height="353" alt="Screenshot 2025-11-12 at 15 59 57" src="https://github.com/user-attachments/assets/55dd6c12-4f75-4b6c-8fa5-155ac8dc93ec" />
+
 
 Block Runner is a simple 3D game where you control a red cube moving through a minimalist  world of floating platforms. The goal is to keep moving forward without falling off – testing your timing  and precision.
 
